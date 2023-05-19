@@ -1,0 +1,182 @@
+[
+    {
+        "id": "remeras-01",
+        "titulo": "Remeras 01",
+        "imagen": "img/remeras/01.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remeras-02",
+        "titulo": "Remeras 02",
+        "imagen": "img/remeras/02.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remeras-03",
+        "titulo": "Remeras 03",
+        "imagen": "img/remeras/03.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remeras-04",
+        "titulo": "Remeras 04",
+        "imagen": "img/remeras/04.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remeras-05",
+        "titulo": "Remeras 05",
+        "imagen": "img/remeras/05.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzos-01",
+        "titulo": "Buzos 01",
+        "imagen": "img/buzos/01.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzos-02",
+        "titulo": "Buzos 02",
+        "imagen": "img/buzos/02.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzos-03",
+        "titulo": "Buzos 03",
+        "imagen": "img/buzos/03.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzos-04",
+        "titulo": "Buzos 04",
+        "imagen": "img/buzos/04.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzos-05",
+        "titulo": "Buzos 05",
+        "imagen": "img/buzos/05.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzos-06",
+        "titulo": "Buzos 06",
+        "imagen": "img/buzos/06.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzos-07",
+        "titulo": "Buzos 07",
+        "imagen": "img/buzos/07.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzos-08",
+        "titulo": "Buzos 08",
+        "imagen": "img/buzos/08.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "jeans-01",
+        "titulo": "Jeans 01",
+        "imagen": "img/jeans/01.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "jeans-02",
+        "titulo": "Jeans 02",
+        "imagen": "img/jeans/02.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "jeans-03",
+        "titulo": "Jeans 03",
+        "imagen": "img/jeans/03.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "jeans-04",
+        "titulo": "Jeans 04",
+        "imagen": "img/jeans/04.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "jeans-05",
+        "titulo": "Jeans 05",
+        "imagen": "img/jeans/05.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 1000
+    }
+]
